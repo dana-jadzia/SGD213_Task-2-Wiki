@@ -8,5 +8,9 @@ You should also justify your thinking.
 
 Hot tip: use our text book for guidance.
 
-## Dummy Heading
-Fill this with information.
+## Component
+single responsibility components
+
+## Inheritance
+parent classes
+## Interfaces
