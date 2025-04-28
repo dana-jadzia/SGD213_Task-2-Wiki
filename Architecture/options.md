@@ -1,12 +1,4 @@
-# TOP HEADING
-
-You should consider 3 different architecture options in here.
-
-You **don't** need UML in here.
-
-You should also justify your thinking.
-
-Hot tip: use our text book for guidance.
+# Options For Consideration
 
 ## Component
 Component architecture is a single-responsibility design approach that structures software into self-contained components that each handle one distinct part of the program behaviour. Each component is designed to be modular and reusable, encapsulating a specific piece of functionality that interacts with other components through well-defined, optional interfaces.
