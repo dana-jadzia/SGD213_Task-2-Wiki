@@ -11,7 +11,7 @@ This design approach has several benefits, including:
 - Components are easy to modify, extend, or replace.
 - Well-designed components can be reused across different projects.
 - Problems are easier to isolate and fix because functionality is compartmentalised.
-- 
+
 However, there are disadvantages:
 
 - You may end up managing many small scripts, which can become overwhelming.
